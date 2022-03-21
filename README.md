@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Jacob 👋 
+## I'm a student and a young programmer!!
+- 🚀 I create games on free engines.
+- 🚸 I teach children and teenagers to program.
 
-<!--
-**CZARNY77/CZARNY77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+<img align="left" alt="Unreal Engine" width="26px" src="https://iconape.com/wp-content/files/zu/247455/png/unreal-engine-logo.png" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://iconape.com/wp-content/files/hp/371596/svg/371596.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c-3.png" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" style="padding-right:10px;" />
+</br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+</details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="CZARNY GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CZARNY77&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
