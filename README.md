@@ -1,7 +1,11 @@
 # Hello, I'm Jacob 👋 
 ## I'm a student and a young programmer!!
+I'm an energetic young man who is fascinated by creating games and writing codes. :smile:<br>
+I learn fast and I want to gain the most experience in what I do.
+
 - 🚀 I create games on free engines.
 - 🚸 I teach children and teenagers to program.
+- ❓  I like riddles and brain teasers.
 
 ### Languages and Tools:
 <img align="left" alt="Unreal Engine" width="26px" src="https://iconape.com/wp-content/files/zu/247455/png/unreal-engine-logo.png" style="padding-right:10px;" />
